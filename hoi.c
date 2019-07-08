@@ -4,6 +4,6 @@ void main()
 {
 while(1)
 	{
-		printf(hoi)
+		printf("hoi")
 	}
 }
